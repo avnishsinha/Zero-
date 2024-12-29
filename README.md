@@ -96,8 +96,8 @@ To set up the project locally:
 
 For inquiries or collaboration:
 
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Here]
+- Email: aks526@nau.edu
+- LinkedIn: https://www.linkedin.com/in/avnishkumarsinha/
 
 ---
 
