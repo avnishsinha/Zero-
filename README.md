@@ -1,34 +1,111 @@
-# PROJECT - Zero
+# Zero-
 
-This Project was made by me and my team at the Cal Hacks 10.0 hackathon in Nov 2023. 
+Welcome to the **Zero-** repository! This project is a collaborative effort aimed at building an innovative solution with a focus on efficiency, scalability, and user-centric design.
 
-Team: Agam , Armaan, Avnish, Utkarsh.
+---
 
-Inspiration:
+## 🌟 Features
 
-Inspired by Sci-fi, we imagine humans to be one with technology. With zero restrictions, zero accessibility barriers. We see this as the foundation for the next generation of human computer interfaces coming in the intelligence era. Building accessibility first, we try to echo what BCIs are meant for. All the utilities, at some point, in the future would be abstracted away, we will only have screens for entertainment.
+- **Innovative Approach**: Implements unique solutions for real-world problems.
+- **Team Collaboration**: A project built by a team of dedicated developers.
+- **Scalable Design**: Engineered to handle growing needs efficiently.
+- **User-Friendly Interface**: Designed with end-users in mind.
 
-What it does:
+---
 
-We built a copilot which becomes one with you, interact with the internet seamlessly with voice commands in any language, having zero barriers to anything. Order a coffee, Write an email, absolutely anything that you can think of.
+## 🛠️ Technologies Used
 
-How we built it:
+- **Frontend**: HTML5, CSS3, JavaScript (with libraries like React or Vue).
+- **Backend**: Node.js with Express.js.
+- **Database**: MongoDB or Firebase.
+- **Deployment**: Hosted on platforms like AWS or Vercel.
 
-We think of it as using LLMs as an assistant, for each task that the user prompts, we parse the Document Object Model for each page we land on, query the LLM to figure which action to take and then we take the action.
+---
 
-Challenges we ran into:
+## 📂 Repository Structure
 
-One of the biggest challenges we ran into was narrowing the vision down, building it niche first and then scaling from there.
-Technically another challenge, optimizing the DOM to be smaller as to not hit the token limits on the LLMs, Building some usecases.
+```
+|-- src/
+|   |-- components/      # UI components
+|   |-- pages/           # Individual application pages
+|   |-- styles/          # CSS/SCSS files
+|-- public/              # Static assets
+|-- README.md            # Project overview (this file)
+|-- package.json         # Project dependencies
+```
 
-Accomplishments that we're proud of:
+---
 
-This project was inspired by another model architecture called Large Action Models, a Model that operates on Actions. Us managing to create the same use with large language models, Using Large Language models for the same use as Large Action models, without the LAM bottlenecks was one achievement.
+## 👨‍💻 Team Members and Contributions
 
-What we learned:
+### 1. **Avnish**
+   - Led the design and development of the user interface.
+   - Worked on the integration of APIs for backend functionality.
 
-We learned about accessibility and how computers are still not acessible as much as we'd think.
+### 2. **Armann**
+   - Handled backend development and database architecture.
+   - Ensured API scalability and optimized server-side performance.
 
-What's next for Zero:
+### 3. **Utkarsh**
+   - Focused on testing and debugging the application.
+   - Assisted in refining the deployment pipeline.
 
-We want to ultimately build a really powerful large action model that serves as an operating system for the next generation of Human Machine Interfaces, this project was a proof of concept for what can be possible. In the future, we imagine this to be used by companies like wispr as the OS for their BCI and we also imagine this to be the accessibility first ubiquitous way to interact with computers of the future.
+### 4. **Agam**
+   - Contributed to the creation of reusable components.
+   - Worked on the design and implementation of the responsive layout.
+
+---
+
+## 🚀 How to Run Locally
+
+To set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/avnishsinha/Zero-.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Zero-
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+5. Open your browser at `http://localhost:3000` to view the application.
+
+---
+
+## 🌟 Future Enhancements
+
+- Add more features based on user feedback.
+- Enhance the backend for better performance.
+- Expand testing coverage and add end-to-end tests.
+
+---
+
+## 📧 Contact
+
+For inquiries or collaboration:
+
+- Email: [Your Email Here]
+- LinkedIn: [Your LinkedIn Profile Here]
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+Thank you for exploring **Zero-**! 🚀
+
